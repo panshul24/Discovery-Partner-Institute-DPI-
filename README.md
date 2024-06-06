@@ -62,3 +62,6 @@ o	If the link is an HTML page, the application scrapes the text content from the
 7.	The individual summaries and the collective summary are displayed in the interface.
 8.	The process ends.
 
+<img width="158" alt="image" src="https://github.com/panshul24/Discovery-Partner-Institute-DPI-/assets/68370779/74c058cc-2311-4d72-a644-3beb9c2a9da8">
+
+
