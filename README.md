@@ -14,6 +14,10 @@ Components:
 4.	Main Functionality:
 •	main(query, company_name): The main function orchestrating the entire process. It fetches top links, extracts content, generates summaries, and formats the output.
 
+This is how the Summarization System UI looks:
+<img width="1530" alt="Screenshot 2024-06-05 at 11 34 11 PM" src="https://github.com/panshul24/Discovery-Partner-Institute-DPI-/assets/68370779/7a153067-9b83-4802-8bdb-43475293d531">
+
+
 Process Flow:
 1.	User Input:
 •	Users provide a query and the name of the company they are interested in summarizing.
